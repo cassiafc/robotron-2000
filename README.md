@@ -1,6 +1,6 @@
-<p align="center"> 
-![robotron-reedme](https://user-images.githubusercontent.com/105315548/182274192-69aca481-7b3c-4b5e-a033-630fc9f59156.png)
-</p>
+
+<h1 align="center">Robotron - 2000</h1>
+
 
 ## Tópicos
 
