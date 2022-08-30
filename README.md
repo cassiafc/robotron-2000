@@ -1,7 +1,11 @@
 
 <h1 align="center">Robotron - 2000</h1>
 
-![robotron-readme](https://user-images.githubusercontent.com/105315548/182277937-a769616a-09e9-4180-9d1b-b0c1a7d05e96.png)
+
+https://user-images.githubusercontent.com/105315548/187327100-8203ef7f-e5b5-4a38-8440-1939d967dec1.mp4
+
+
+
 
 ## Tópicos
 
